@@ -5,7 +5,7 @@ title: "My title"
 
 homepage
 
-- [About us](about)
+- [About us](aboutus)
 - [Wedding party](weddingparty)
 - [the wedding](thewedding)
 - [photos](photos)
