@@ -3,13 +3,11 @@ layout: page
 title: "My title"
 ---
 
+homepage
 
-Hello world
-
-test
-
-- test
-- test
-- test1
-- 
-- Interesting... was wondering what on earth an .md was.
+- [About us](about)
+- [Wedding party](weddingparty)
+- [the wedding](thewedding)
+- [photos](photos)
+- [accommodations](accommodations)
+- [rsvp](rsvp)
