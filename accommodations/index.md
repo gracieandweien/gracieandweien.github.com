@@ -4,3 +4,5 @@ title: "Accommodations"
 ---
 
 Accommodations page
+
+{{title}}
