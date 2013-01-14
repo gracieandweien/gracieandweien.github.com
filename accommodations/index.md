@@ -5,4 +5,4 @@ title: "Accommodations"
 
 Accommodations page
 
-{{title}}
+{{page.title}}
