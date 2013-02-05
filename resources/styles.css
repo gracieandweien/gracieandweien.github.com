@@ -40,7 +40,7 @@ body {
 h1 {
     width: 341px;
     height: 94px;
-    background: url(/resources/logo.png);
+    background: url(logo.png);
     margin: 0 auto 0 auto;
 }
 h1 span {
