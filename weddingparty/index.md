@@ -82,7 +82,7 @@ He once described a 15-year old Weien as "a lovesick boy who loved music" as wel
 
 Wolf (short for his middle name, Wolfgang von) is my career mentor. He has been patiently guiding me through my software development studies for several months now, even though it's taking a long time, even though he sometimes has to tell me things twice. He not only teaches me but liberally invites me to stay over at his apartment, always offers to take care of dinner, and even keeps ice cream sandwiches in the fridge just because he knows they bring me cheer.
 
-And he even seems to take really good care of my sister! Wolf is an all-around giving person. He may make a voluntarist out of me yet.
+And he even takes really good care of my sister! Simply put, he's a really giving person.
 
 ##Andrew (Groomsman, Friend of the Groom)
 
