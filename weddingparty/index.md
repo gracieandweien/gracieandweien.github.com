@@ -90,4 +90,12 @@ Andrew is my college pastor and spiritual mentor. As a sophomore at North Centra
 
 ##Hudson (Groomsman, Brother of the Bride)
 
+Hudson is The Party. He is the family's much-needed holler, a blast of spontaneity, a man who is game for any adventure. If we didn't have Hudson, my obtuse dancing and random songifying would probably make Gracie think I was insane. They say I am most like him in most respects, but I can only hope to be as much fun, as intellectually sharp, as good with people, and as professionally ambitious. He loves his family so much, and I'm glad I get to be a part of it, soon.
+
+##Hadyn (Groomsman, Brother of the Bride)
+
+Hadyn is probably a prescription drug in some universe, because he brings so much calm and happy relaxation with him when he walks in the room. Maybe it's because he stands so effortlessly by his beliefs. Maybe because he draws peace from his love of deep ideas and fine art. Or maybe it's because he's not afraid to laugh at silly things, like flatulence and funny faces. His zen is contagious, and I'm glad for it--I can always use a double dose of his easygoing, boyish earnestness.
+
+##Nate (Groomsman, Brother of the Bride)
+
 
