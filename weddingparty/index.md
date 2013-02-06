@@ -71,3 +71,13 @@ I was going through before she had to go through it herself. I’m
 really excited to have her in the wedding party because she is a hoot 
 and a half to be around. In fact, Susie is wittier and funnier than 
 Elaine from Seinfeld (got that, Sue?)
+
+##Micah (Best Man, Friend of the Groom)
+
+Micah is my best friend (other than Jesus and Gracie and family) and has been for around a decade, now. Over the years and the loads of emails, he has been my songwriting partner, my iron-sharpening iron, and my accountability partner. He's a straight shooter, a penpal extraordinaire, and someone whose God-centeredness I've always admired. Micah has stayed my friend even when I've neglected our friendship. 
+
+He once described a 15-year old Weien as "a lovesick boy who loved music" as well as "a tangled mess of yarn." He was and remains right on both counts.
+
+##Wolf (Groomsman, Friend of the Groom)
+
+Wolf (short for his middle name, Wolfgang von) is my career mentor.
