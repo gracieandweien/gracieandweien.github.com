@@ -1,5 +1,6 @@
 ---
 layout: page
+pagetype: homepage
 title: "Gracie &amp; Weien — March 22, 2013"
 ---
 
