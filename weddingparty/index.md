@@ -84,4 +84,10 @@ Wolf (short for his middle name, Wolfgang von) is my career mentor. He has been 
 
 And he even seems to take really good care of my sister! Wolf is an all-around giving person. He may make a voluntarist out of me yet.
 
-##
+##Andrew (Groomsman, Friend of the Groom)
+
+Andrew is my college pastor and spiritual mentor. As a sophomore at North Central, I met Andrew one Wednesday night and subjected him to a not-very-concise treatment on my relationship woes. Since then, he has pushed me toward leadership opportunities, kept an eye on me as my faith has climbed and fallen, and gently rebuked me when I needed it most. He uniquely has told me that he can actually see progress in my spiritual battles, which is incredibly encouraging. His lessons have helped me think about the Bible in today's society, and I'm a better Christian for his investment in me.
+
+##Hudson (Groomsman, Brother of the Bride)
+
+
