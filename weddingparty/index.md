@@ -94,8 +94,8 @@ Hudson is The Party. He is the family's much-needed holler, a blast of spontanei
 
 ##Hadyn (Groomsman, Brother of the Bride)
 
-Hadyn is probably a prescription drug in some universe, because he brings so much calm and happy relaxation with him when he walks in the room. Maybe it's because he stands so effortlessly by his beliefs. Maybe because he draws peace from his love of deep ideas and fine art. Or maybe it's because he's not afraid to laugh at silly things, like flatulence and funny faces. His zen is contagious, and I'm glad for it--I can always use a double dose of his easygoing, boyish earnestness.
+Hadyn is probably a breakthrough prescription drug in some universe, because he brings so much calm and happy relaxation with him when he walks in the room. Maybe it's because he stands so effortlessly by his beliefs. Maybe because he draws peace from his love of deep ideas and fine art. Or maybe it's because he's not afraid to laugh at silly things, like flatulence and funny faces. His zen is contagious, and I'm glad for it--I can always use a double dose of his easygoing, boyish earnestness.
 
 ##Nate (Groomsman, Brother of the Bride)
 
-
+Nate is the one who was the most conservative about giving me his stamp of approval. He waited to learn about my strengths and weaknesses, tried to get a feel for my spiritual state, and conscientiously observed how I interacted with Gracie before I finally got the nod. Nate is the one who notices the little things, who keeps himself under the microscope, who keeps tabs on how people are feeling. I know that by joining the family I step into his sphere of affectionate watchfulness, and that's definitely a fortunate place to be.
