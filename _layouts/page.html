@@ -6,10 +6,40 @@
     <meta name="description" content="Gracie and Weien's wedding site.">
     <link rel="shortcut icon" href="/favicon.png" type="image/png">
     <title>{{page.title}}</title>
+    <script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+    <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+        jQuery(function($){
+            $(".tweet").tweet({
+                username: "gracieandweien",
+                join_text: "",
+                avatar_size: null,
+                count: 1,
+                auto_join_text_default: "", 
+                auto_join_text_ed: "",
+                auto_join_text_ing: "",
+                auto_join_text_reply: "",
+                auto_join_text_url: "",
+                loading_text: "loading..."
+            });
+        });
+    </script>
 </head>
 <body id="page" class="{{page.pagetype}}">
     <div id="header">
         <h1><a href="/"><span>Gracie &amp; Weien</span></a></h1>
+    </div>
+    <div id="navigation"><div id="navigation-margin">
+        <ul>
+            <li class="first"><a class="aboutus" href="/aboutus/">About Us</a></li>
+            <li><a class="thewedding" href="/thewedding/">The Wedding</a></li>
+            <li><a class="photos" href="/photos/">Photos</a></li>
+            <li><a class="weddingparty" href="/weddingparty/">Wedding Party</a></li>
+            <li><a class="accommodations" href="/accommodations/">Accommodations</a></li>
+        </ul>
+    </div></div>
+    <div id="banner">
+        <div class="image"></div>
     </div>
     <div id="content"><div id="content-margins">
         
@@ -17,7 +47,12 @@
     
     </div></div>
     <div id="footer">
-
+        <div id="tweetbubble">
+            <div class="text">
+                <div class="tweet"></div>
+            </div>
+            <div class="more"><a href="http://twitter.com/gracieandweien">@gracieandweien</a></div>
+        </div>
     </div>
 </body>
 </html>

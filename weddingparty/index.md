@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Wedding Party"
+pagetype: weddingparty
 ---
 
 ##Gretta (Maid of Honor, Sister of the Bride)

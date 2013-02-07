@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Wedding"
+pagetype: thewedding
 ---
 
 ##The Wedding

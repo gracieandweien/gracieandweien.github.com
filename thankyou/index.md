@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Thank You"
+pagetype: thankyou
 ---
 
 ##Thank you

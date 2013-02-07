@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Accommodations"
+pagetype: accommodations 
 ---
 
 ##Places to eat:

@@ -17,15 +17,14 @@ li {
     list-style: none;
 }
 a {
-    color: #2D63B9;
+    color: #529AA7;
 }
 a:hover {
-	color: #3A7EE6;
+	color: #85B5B6;
 }
 body {
     font-family: "Lucida Grande";
     font-size: 11px;
-    -webkit-user-select: none;
 	float: left;
 	width: 100%;
 	margin-bottom: 2em;
@@ -33,7 +32,6 @@ body {
 }
 p {
     margin-bottom: 1em;
-    
 }
 li {
     margin-bottom: .5em;
@@ -91,10 +89,63 @@ h2 {
     font-size: 18px;
     margin-bottom: .5em;
 }
+#navigation {
+    width: 100%;
+    float: left;
+    background: #FBF4D5;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    height:42px;
+}
+#navigation-margin {
+    margin: 0 auto 0 auto;
+    width: 650px;
+}
+#navigation a {
+    text-transform: uppercase;
+    font-size: 13px;
+    float: left;
+    padding: 13px 18px;
+    border-right: 4px solid white;
+}
+body.aboutus #navigation a.aboutus,
+body.thewedding #navigation a.thewedding,
+body.photos #navigation a.photos,
+body.weddingparty #navigation a.weddingparty,
+body.accommodations #navigation a.accommodations { background:#F5E190; }
+#navigation li.first a {
+    border-left: 4px solid white;
+}
+#navigation li {
+    float: left;
+}
+#banner {
+    width: 100%;
+    height: 262px;
+    float: left;
+    background: url(pattern.png);
+    margin-bottom: 23px;
+}
+#banner .image {
+    width: 790px;
+    height: 262px;
+    margin: 0 auto;
+    background: url(banner-aboutus.png);
+    border-right: 4px solid white;
+    border-left: 4px solid white;
+}
+body.thewedding #banner .image { background: url(banner-thewedding.png) }
+body.thewedding #banner { background: url(patternlight.png) }
+body.photos #banner .image { background: url(banner-photos.png) }
+body.weddingparty #banner .image { background: url(banner-weddingparty.png) }
+body.accommodations #banner .image { background: url(banner-accommodations.png) }
+body.homepage #banner, body.homepage #navigation, body.thankyou #banner {
+    display: none;
+}
 #content {
     background: #fff;
-    padding: 23px 0;
     font-size: 12px;
+    padding: 23px 0;
 }
 #content-margins {
     width: 791px;
@@ -116,4 +167,27 @@ body.homepage #content-margins { width: auto }
 #home-buttons .button.photos { left: 539px; top: 0; }
 #home-buttons .button.accommodations { left: 539px; top: 328px; }
 #footer {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+#tweetbubble {
+    width: 472px;
+    height: 52px;
+    margin: 0 auto 0 auto;
+    background: url(tweetbubble.png);
+    color: #999;
+}
+#tweetbubble .text {
+    margin-left: 65px;
+    margin-right: 20px;
+    padding-top: 10px;
+    line-height: 140%;
+}
+#tweetbubble .more {
+    text-align: right;
+    margin-right:20px;
+    margin-top: 15px;
+}
+#tweetbubble .more a {
+    color: #E8AE00;
 }

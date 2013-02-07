@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Us"
+pagetype: aboutus
 ---
 ##About the Couple
 I met Weien on the third floor of the Larrance Academic Center at North Central College in September of 2010. He brought snacks to class every morning – from yummy candy from China to corn on the cob that he carried around in his coat pocket, to a peanut butter sandwich (the smell of which made me feel nauseous and sparked one of our very first conversations… lucky me!)
@@ -15,6 +16,6 @@ We started dating in May of 2011 and have been on many adventures since. We love
   
 ##About the Engagement
 
-You can listen to an podcast-style audio retelling of the proposal here (~9min):
+You can listen to an podcast-style audio retelling of the proposal [here](engagementstory.mp3) (~9min):
 
 Also, you can still find our Save the Date video [here](http://vimeo.com/49057034)!
