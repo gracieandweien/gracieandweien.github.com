@@ -80,17 +80,17 @@ He once described a 15-year old Weien as "a lovesick boy who loved music" as wel
 
 ##Wolf (Groomsman, Friend of the Groom)
 
-Wolf (short for his middle name, Wolfgang von) is my career mentor. He has been patiently guiding me through my software development studies for several months now, even though it's taking a long time, even though he sometimes has to tell me things twice. He not only teaches me but liberally invites me to stay over at his apartment, always offers to take care of dinner, and even keeps ice cream sandwiches in the fridge just because he knows they bring me cheer.
+Wolf (short for his middle name, Wolfgang von) is my career mentor. He has been patiently guiding me through my software development studies for several months now, even though it's taking a long time, even though he sometimes has to tell me things twice. He not only teaches me but liberally invites me to stay over at his apartment, always offers to take care of dinner, and even keeps ice cream sandwiches in the freezer just because he knows they bring me cheer.
 
 And he even takes really good care of my sister! Simply put, he's a really giving person.
 
 ##Andrew (Groomsman, Friend of the Groom)
 
-Andrew is my college pastor and spiritual mentor. As a sophomore at North Central, I met Andrew one Wednesday night and subjected him to a not-very-concise treatment on my relationship woes. Since then, he has pushed me toward leadership opportunities, kept an eye on me as my faith has climbed and fallen, and gently rebuked me when I needed it most. He uniquely has told me that he can actually see progress in my spiritual battles, which is incredibly encouraging. His lessons have helped me think about the Bible in today's society, and I'm a better Christian for his investment in me.
+Andrew is my college pastor and spiritual mentor. As a sophomore at North Central, I met Andrew one Wednesday night and subjected him to a not-very-concise treatment on my relationship woes. Since then, he has pushed me toward leadership opportunities, kept an eye on me as my faith has climbed and fallen, and gently rebuked me when I needed it most. He reminds me that he can actually see progress in my spiritual battles, which I always find incredibly encouraging. His lessons have helped me think about the Bible in relation to the world today, and I'm a better Christian for his investment in me.
 
 ##Hudson (Groomsman, Brother of the Bride)
 
-Hudson is The Party. He is the family's much-needed holler, a blast of spontaneity, a man who is game for any adventure. If we didn't have Hudson, my obtuse dancing and random songifying would probably make Gracie think I was insane. They say I am most like him in most respects, but I can only hope to be as much fun, as intellectually sharp, as good with people, and as professionally ambitious. He loves his family so much, and I'm glad I get to be a part of it, soon.
+Hudson is The Party. He is the family's much-needed holler, a blast of spontaneity, a man who is game for any adventure. If we didn't have Hudson, Gracie would probably still be a long way from being able to tolerate my obtuse dancing and random songifying. They say I am most like him in most respects, but I can only hope to be as much fun, as intellectually sharp, as good with people, and as professionally ambitious. He loves his family so much, and I'm glad I get to be a part of it, soon.
 
 ##Hadyn (Groomsman, Brother of the Bride)
 
