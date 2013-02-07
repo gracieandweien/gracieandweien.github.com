@@ -13,7 +13,7 @@ Oh, and out of respect for the church facility, please keep the cupcake receptio
 
 Thanks to our friends who will be assisting and providing services on our wedding day:
 
-*Laura Ambrose and Erika Smith* for providing flowers for the day's events. They are dear friends from church, and it's so exciting that they are stepping in as our florists!
+*Laura Ambrose and Erika Smith* for providing flowers for the day's events. They are dear friends from church, and it's so exciting that they are coming in as our florists!
 
 *Kelsey Franklin* for being our wedding coordinator -- no messing with Kelsey! :) For real now.
 
