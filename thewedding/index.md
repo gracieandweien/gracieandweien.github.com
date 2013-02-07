@@ -5,13 +5,17 @@ title: "The Wedding"
 
 ##The Wedding
 
-Gracie and Weien are getting married on March 22, 2013 at 4 pm at the [United Methodist Church of New Lenox](http://www.umcnl.com/37993.html), located at 339 New Lenox Road, New Lenox IL, 60451. Come ready to stand up and sit down in your Sunday best! 8D (OKAY not sure what all else to put here).
+Gracie and Weien are getting married on March 22, 2013 at 4 pm at the [United Methodist Church of New Lenox](http://www.umcnl.com/37993.html), located at 339 New Lenox Road, New Lenox IL, 60451. We can't wait to see you there!
 
+Oh, and out of respect for the church facility, please keep the cupcake reception with its coffee and punch and whatnot in the tiled area where they'll be located. Crumby carpet sure gets crummy! ^^
 
+##Shout-Outs
 
-You can still find our Save the Date video [here](http://vimeo.com/49057034)!
-
-
+Thanks to our friends who will be assisting and providing services on our wedding day:
+*Laura Ambrose and Erika Smith* for providing flowers for the day's events. They are dear friends from church, and it's so exciting that they are stepping in as our florists!
+*Kelsey Franklin* for being our wedding coordinator -- no messing with Kelsey! :) For real now.
+*Laura Clawson and company* for taking and editing photos. Laura is a good friend of the groom and best man, and is absolutely an artist.
+*Susan Kapke* for handling the logistics of the cupcake reception. Grandma Kapke is the boss; if only we had three of her!
 
 ##Getting There
 
