@@ -9,4 +9,12 @@ Gracie and Weien are getting married on March 22, 2013 at 4 pm at the [United Me
 
 
 
-You can still watch our Save the Date video [here](http://vimeo.com/49057034)!
+You can still find our Save the Date video [here](http://vimeo.com/49057034)!
+
+
+
+##Getting There
+
+If you're arriving via Route 30, the entrance to the property kind of sneaks up on ya! Look for two lamp posts in front of a copse of trees. If you're heading toward the church from I-80, the entrance is after the Pizza Hut, but if you pass El Burrito Loco, then you've gone too far.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Methodist+Church+New+Lenox&amp;aq=&amp;sll=41.514563,-87.970018&amp;sspn=0.006033,0.012853&amp;ie=UTF8&amp;hq=United+Methodist+Church+New+Lenox&amp;hnear=&amp;t=m&amp;ll=41.526957,-87.970963&amp;spn=0.04498,0.072956&amp;z=13&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=United+Methodist+Church+New+Lenox&amp;aq=&amp;sll=41.514563,-87.970018&amp;sspn=0.006033,0.012853&amp;ie=UTF8&amp;hq=United+Methodist+Church+New+Lenox&amp;hnear=&amp;t=m&amp;ll=41.526957,-87.970963&amp;spn=0.04498,0.072956&amp;z=13" style="color:#0000FF;text-align:left">View Larger Map</a></small>
