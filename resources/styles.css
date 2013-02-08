@@ -87,7 +87,8 @@ h1 span {
 }
 h2 {
     font-size: 18px;
-    margin-bottom: .5em;
+    margin-bottom: .8em;
+    margin-top: 2em;
 }
 #navigation {
     width: 100%;
@@ -134,11 +135,11 @@ body.accommodations #navigation a.accommodations { background:#F5E190; }
     border-right: 4px solid white;
     border-left: 4px solid white;
 }
-body.thewedding #banner .image { background: url(banner-thewedding.png) }
+body.thewedding #banner .image { background: url(banner-thewedding.jpg) }
 body.thewedding #banner { background: url(patternlight.png) }
-body.photos #banner .image { background: url(banner-photos.png) }
-body.weddingparty #banner .image { background: url(banner-weddingparty.png) }
-body.accommodations #banner .image { background: url(banner-accommodations.png) }
+body.photos #banner .image { background: url(banner-photos.jpg) }
+body.weddingparty #banner .image { background: url(banner-weddingparty.jpg) }
+body.accommodations #banner .image { background: url(banner-accommodations.jpg) }
 body.homepage #banner, body.homepage #navigation, body.thankyou #banner {
     display: none;
 }
@@ -189,5 +190,5 @@ body.homepage #content-margins { width: auto }
     margin-top: 15px;
 }
 #tweetbubble .more a {
-    color: #E8AE00;
+    color: #e8cc71;
 }

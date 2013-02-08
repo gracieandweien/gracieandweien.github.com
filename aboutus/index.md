@@ -19,3 +19,5 @@ We started dating in May of 2011 and have been on many adventures since. We love
 You can listen to an podcast-style audio retelling of the proposal [here](engagementstory.mp3) (~9min):
 
 Also, you can still find our Save the Date video [here](http://vimeo.com/49057034)!
+
+![Engagement photos](engagementphotos.jpg)
