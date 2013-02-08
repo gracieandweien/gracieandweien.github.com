@@ -6,4 +6,4 @@ pagetype: thankyou
 
 ##Thank you
 
-Thanks for your RSVP! We look forward to seeing you at the wedding.
+Thanks for your response! Please feel free to continue browsing our [wedding site](http://gracieandweien.com).
