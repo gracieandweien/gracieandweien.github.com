@@ -170,15 +170,15 @@ body.homepage #content-margins { width: auto }
 #home-buttons .button.photos { left: 539px; top: 0; }
 #home-buttons .button.accommodations { left: 539px; top: 328px; }
 body.photos #banner {
-    margin-bottom: 45px;
-    clear: both;
+
 }
 body.photos img {
+    clear: both;
     border: 20px solid #fff;
     -webkit-box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.33);
     -moz-box-shadow:    1px 1px 11px rgba(0, 0, 0, 0.33);
     box-shadow:         1px 1px 11px rgba(0, 0, 0, 0.33);
-    margin: 55px auto 0px auto;
+    margin: 15px auto 55px auto;
     display: block;
 }
 #footer {
