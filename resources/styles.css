@@ -96,11 +96,12 @@ h2 {
     background: #FBF4D5;
     border-top: 4px solid white;
     border-bottom: 4px solid white;
+    text-align:center;
 }
 #navigation-margin {
-    margin: 0 auto 0 auto;
-    width: 60em;
-    xfloat:left;background:gray;
+    display: inline-block;
+    *display:inline;/* IE*/
+    *zoom:1;/* IE*/
 }
 #navigation a {
     text-transform: uppercase;
