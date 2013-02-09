@@ -100,7 +100,7 @@ h2 {
 }
 #navigation-margin {
     margin: 0 auto 0 auto;
-    width: 650px;
+    width:59em;
 }
 #navigation a {
     text-transform: uppercase;
@@ -167,6 +167,17 @@ body.homepage #content-margins { width: auto }
 #home-buttons .button.wedding { left: 269px; top: 0; }
 #home-buttons .button.photos { left: 539px; top: 0; }
 #home-buttons .button.accommodations { left: 539px; top: 328px; }
+body.photos #banner {
+    margin-bottom: 45px;
+}
+body.photos img {
+    border: 20px solid #fff;
+    -webkit-box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.33);
+    -moz-box-shadow:    1px 1px 11px rgba(0, 0, 0, 0.33);
+    box-shadow:         1px 1px 11px rgba(0, 0, 0, 0.33);
+    margin: 55px auto 0px auto;
+    display: block;
+}
 #footer {
     padding-top: 50px;
     padding-bottom: 60px;
