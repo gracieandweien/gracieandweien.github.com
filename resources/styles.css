@@ -145,6 +145,7 @@ body.accommodations #banner .image { background: url(banner-accommodations.jpg) 
 body.homepage #banner, body.homepage #navigation, body.thankyou #banner {
     display: none;
 }
+body.thankyou #content h2 { padding-top: .9em; }
 #content {
     background: #fff;
     font-size: 12px;
