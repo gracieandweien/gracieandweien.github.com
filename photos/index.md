@@ -4,11 +4,11 @@ title: "Photos"
 pagetype: photos
 ---
 <div style="clear:both;display: block">&nbsp;</div>
-![](MyHouseGuitar.jpg)
 ![](FavoritePicture.jpg)
 ![](GroceryShoppin.jpg)
 ![](CFPHCThanksgivingDinner.jpg)
 ![](MyFirstFrapp.jpg)
+![](MyHouseGuitar.jpg)
 ![](NatePhotoBomb.jpg)
 ![](JakesWedding.jpg)
 ![](MichiganCooking.jpg)
