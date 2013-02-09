@@ -171,6 +171,7 @@ body.homepage #content-margins { width: auto }
 #home-buttons .button.accommodations { left: 539px; top: 328px; }
 body.photos #banner {
     margin-bottom: 45px;
+    clear: both;
 }
 body.photos img {
     border: 20px solid #fff;
