@@ -45,7 +45,7 @@ Sonia is hardworking and sweet. I’ve known her since 1997 and
 we went to school together. I particularly remember the day in 
 7th grade when she accidently wore her dad’s sweatpants to gym. 
 Drowning in fabric in the girl’s bathroom, she confessed to me 
-her love for my brother – and years later, they were married.  
+her love for my brother – and years later, they were married. 
 She is always busy – whether it’s going running with friends, 
 making a monkey cake for Gretta’s birthday, taking care of my 
 brother Johnnycakes, or (more recently) working as a real live 
