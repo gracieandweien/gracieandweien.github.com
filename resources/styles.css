@@ -134,8 +134,6 @@ body.accommodations #navigation a.accommodations { background:#F5E190; }
     height: 262px;
     margin: 0 auto;
     background: url(banner-aboutus.jpg);
-    border-right: 4px solid white;
-    border-left: 4px solid white;
 }
 body.thewedding #banner .image { background: url(banner-thewedding.jpg) }
 body.thewedding #banner { background: url(patternlight.png) }
