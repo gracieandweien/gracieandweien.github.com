@@ -175,8 +175,12 @@ body.photos #banner {
 }
 .wedding-party-photo {
     float: left;
-    margin-right: 20px;
+    margin-right: 25px;
     margin-bottom: 3em;
+    border: 10px solid #fff;
+    -webkit-box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.33);
+    -moz-box-shadow:    1px 1px 7px rgba(0, 0, 0, 0.33);
+    box-shadow:         1px 1px 7px rgba(0, 0, 0, 0.33);
 }
 body.weddingparty #content .separator {
     margin-bottom: 1em;
@@ -190,7 +194,7 @@ body.weddingparty #content p {
 }
 body.photos img {
     clear: both;
-    border: 20px solid #fff;
+    border: 16px solid #fff;
     -webkit-box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.33);
     -moz-box-shadow:    1px 1px 11px rgba(0, 0, 0, 0.33);
     box-shadow:         1px 1px 11px rgba(0, 0, 0, 0.33);
