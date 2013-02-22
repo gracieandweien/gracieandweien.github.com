@@ -20,4 +20,4 @@ You can listen to an podcast-style audio retelling of the proposal [here](engage
 
 Also, you can still find our Save the Date video [here](http://vimeo.com/49057034)!
 
-![Engagement photos](engagementphotos.jpg)
+<img src="engagementphotos.jpg" alt="" style="margin-left: -45px; margin-top: 44px">

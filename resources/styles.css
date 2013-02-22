@@ -127,7 +127,7 @@ body.accommodations #navigation a.accommodations { background:#F5E190; }
     height: 262px;
     float: left;
     background: url(pattern.png);
-    margin-bottom: 23px;
+    margin-bottom: 44px;
 }
 #banner .image {
     width: 790px;
@@ -152,10 +152,10 @@ body.thankyou #content h2 { padding-top: .9em; }
     padding: 23px 0;
 }
 #content-margins {
-    width: 791px;
-    margin: 0 auto;
+    width: 700px;
+    margin: 0 auto 40px auto;
 }
-body.homepage #content-margins { width: auto }
+body.homepage #content-margins { width: auto; margin-bottom: 0; }
 #home-buttons {
     width: 804px;
     height: 482px;
@@ -172,6 +172,21 @@ body.homepage #content-margins { width: auto }
 #home-buttons .button.accommodations { left: 539px; top: 328px; }
 body.photos #banner {
 
+}
+.wedding-party-photo {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 3em;
+}
+body.weddingparty #content .separator {
+    margin-bottom: 1em;
+    clear: both;
+}
+body.weddingparty #content h2 {
+    margin-top: 0;
+}
+body.weddingparty #content p {
+    
 }
 body.photos img {
     clear: both;

@@ -4,6 +4,8 @@ title: "Wedding Party"
 pagetype: weddingparty
 ---
 
+<img src="Gretta.jpg" class="wedding-party-photo" alt="">
+
 ##Gretta (Maid of Honor, Sister of the Bride)
 
 Gretta is just about the most compassionate person I’ve ever met. 
@@ -16,7 +18,11 @@ Gretta and I share countless memories, inside jokes, and secret
 glances, and to me, that’s irreplaceable. (Gah-rah-tah, jahtah 
 dahlahn, ah ahm sah hahnahed tah hahv yah ahs mah mahd ahv ahnah. 
 Ah lahv yah!!)
- 
+
+<div class="separator">&nbsp;</div>
+
+
+<img src="Victoria.jpg" class="wedding-party-photo" alt="">
 ##Victoria (Bridesmaid, Sister of the Groom)
 
 Victoria is absolutely BRIMMING with ideas. I have 19 emails (and 
@@ -27,7 +33,10 @@ past couple years, I’ve come to realize that she’s a free spirit,
 a refreshingly opinionated thinker, a talented artist, and a gifted 
 conversationalist. I’m excited and blessed to have her in my 
 wedding and to, very soon, have her as a sister.
- 
+
+<div class="separator">&nbsp;</div>
+
+<img src="Amber.jpg" class="wedding-party-photo" alt="">
 ##Amber (Bridesmaid, Sister of the Bride)
 
 Amber is fun loving and family-oriented. I can always count on a 
@@ -39,6 +48,9 @@ been carrying my first niece or nephew around for months and
 months! By the time the wedding rolls around, that little 
 stinker will be born! I could not be more excited.
  
+<div class="separator">&nbsp;</div>
+
+<img src="Sonia.jpg" class="wedding-party-photo" alt="">
 ##Sonia (Bridesmaid, Sister of the Bride)
 
 Sonia is hardworking and sweet. I’ve known her since 1997 and 
@@ -52,6 +64,9 @@ brother Johnnycakes, or (more recently) working as a real live
 REGISTERED NURSE! Even though Sonia’s schedule is booked, she 
 always makes time to visit and catch up.
  
+<div class="separator">&nbsp;</div>
+
+<img src="Maggie.jpg" class="wedding-party-photo" alt="">
 ##Maggie (Bridesmaid, Friend of the Bride)
 
 Maggie is a constant in my life. I met her when I was 8 and we 
@@ -64,6 +79,9 @@ high school together, the whole shebang.
 Also, fun fact: Maggie is the only person to have ever made me laugh 
 so hard I threw up. It was the best throwing up experience of my life.
  
+<div class="separator">&nbsp;</div>
+
+<img src="Susie.jpg" class="wedding-party-photo" alt="">
 ##Susie (Bridesmaid, Friend of the Bride)
 
 Susie is an old soul. I am four years her senior, but I’ve never felt 
@@ -73,29 +91,48 @@ really excited to have her in the wedding party because she is a hoot
 and a half to be around. In fact, Susie is wittier and funnier than 
 Elaine from Seinfeld (got that, Sue?)
 
+<div class="separator">&nbsp;</div>
+
+<img src="Micah.jpg" class="wedding-party-photo" alt="">
 ##Micah (Best Man, Friend of the Groom)
 
 Micah is my best friend (other than Jesus and Gracie and family) and has been for around a decade, now. Over the years and the loads of emails, he has been my songwriting partner, my iron-sharpening iron, and my accountability partner. He's a straight shooter, a penpal extraordinaire, and someone whose God-centeredness I've always admired. Micah has stayed my friend even when I've neglected our friendship. 
 
 He once described a 15-year old Weien as "a lovesick boy who loved music" as well as "a tangled mess of yarn." He was and remains right on both counts.
 
+<div class="separator">&nbsp;</div>
+
+<img src="Wolf.jpg" class="wedding-party-photo" alt="">
 ##Wolf (Groomsman, Friend of the Groom)
 
 Wolf (short for his middle name, Wolfgang von) is my career mentor. He has been patiently guiding me through my software development studies for several months now, even though it's taking a long time, even though he sometimes has to tell me things twice. He not only teaches me but liberally invites me to stay over at his apartment, always offers to take care of dinner, and even keeps ice cream sandwiches in the freezer just because he knows they bring me cheer.
 
 And he even takes really good care of my sister! Simply put, he's a really giving person.
 
+<div class="separator">&nbsp;</div>
+
+<img src="Andrew.jpg" class="wedding-party-photo" alt="">
 ##Andrew (Groomsman, Friend of the Groom)
 
 Andrew is my college pastor and spiritual mentor. As a sophomore at North Central, I met Andrew one Wednesday night and subjected him to a not-very-concise treatment on my relationship woes. Since then, he has pushed me toward leadership opportunities, kept an eye on me as my faith has climbed and fallen, and gently rebuked me when I needed it most. He reminds me that he can actually see progress in my spiritual battles, which I always find incredibly encouraging. His lessons have helped me think about the Bible in relation to the world today, and I'm a better Christian for his investment in me.
 
+<div class="separator">&nbsp;</div>
+
+<img src="Hudson.jpg" class="wedding-party-photo" alt="">
 ##Hudson (Groomsman, Brother of the Bride)
 
 Hudson is The Party. He is the family's much-needed holler, a blast of spontaneity, a man who is game for any adventure. If we didn't have Hudson, Gracie would probably still be a long way from being able to tolerate my obtuse dancing and random songifying. They say I am most like him in most respects, but I can only hope to be as much fun, as intellectually sharp, as good with people, and as professionally ambitious. He loves his family so much, and I'm glad I get to be a part of it, soon.
 
+<div class="separator">&nbsp;</div>
+
+<img src="Hadyn.jpg" class="wedding-party-photo" alt="">
 ##Hadyn (Groomsman, Brother of the Bride)
 
 Hadyn is probably a breakthrough prescription drug in some universe, because he brings so much calm and happy relaxation with him when he walks in the room. Maybe it's because he stands so effortlessly by his beliefs. Maybe because he draws peace from his love of deep ideas and fine art. Or maybe it's because he's not afraid to laugh at silly things, like flatulence and funny faces. His zen is contagious, and I'm glad for it--I can always use a double dose of his easygoing, boyish earnestness.
+
+<div class="separator">&nbsp;</div>
+
+<img src="Nate.jpg" class="wedding-party-photo" alt="">
 
 ##Nate (Groomsman, Brother of the Bride)
 

@@ -3,7 +3,7 @@ layout: page
 title: "Photos"
 pagetype: photos
 ---
-<div style="clear:both;display: block">&nbsp;</div>
+
 ![](FavoritePicture.jpg)
 ![](GroceryShoppin.jpg)
 ![](CFPHCThanksgivingDinner.jpg)
