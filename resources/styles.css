@@ -29,12 +29,15 @@ body {
 	width: 100%;
 	margin-bottom: 2em;
     background: #FBF4D5;
+    color: #333;
 }
 #content p {
     margin-bottom: 1em;
+    line-height: 140%;
 }
 #content li {
     margin-bottom: .5em;
+    line-height: 130%;
 }
 .ss-form-container {
     width: 500px;
@@ -85,10 +88,29 @@ h1 a {
 h1 span {
     display: none;
 }
+@font-face {
+    font-family: 'londonmmregular';
+    src: url('londonmm-webfont.eot');
+    src: url('londonmm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('londonmm-webfont.woff') format('woff'),
+         url('londonmm-webfont.ttf') format('truetype'),
+         url('londonmm-webfont.svg#londonmmregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 h2 {
-    font-size: 18px;
-    margin-bottom: .8em;
-    margin-top: 2em;
+    font-family: "londonmmregular", "Lucida Grande", sans-serif;
+    font-size: 28px;
+    color: #666666;
+    margin-bottom: .6em;
+    margin-top: 1.5em;
+    text-transform: lowercase;
+}
+h2 span {
+    font-size: 12px;
+    font-family: "Lucida Grande", sans-serif;
+    color: #aaa;
+    margin-left: 5px;
 }
 #navigation {
     width: 100%;
@@ -127,7 +149,7 @@ body.accommodations #navigation a.accommodations { background:#F5E190; }
     height: 262px;
     float: left;
     background: url(pattern.png);
-    margin-bottom: 44px;
+    margin-bottom: 40px;
 }
 #banner .image {
     width: 790px;
@@ -142,6 +164,9 @@ body.weddingparty #banner .image { background: url(banner-weddingparty.jpg) }
 body.accommodations #banner .image { background: url(banner-accommodations.jpg) }
 body.homepage #banner, body.homepage #navigation, body.thankyou #banner {
     display: none;
+}
+body.photos #banner, body.weddingparty #banner {
+    margin-bottom: 50px;
 }
 body.thankyou #content h2 { padding-top: .9em; }
 #content {
@@ -181,11 +206,12 @@ body.photos #banner {
     box-shadow:         1px 1px 7px rgba(0, 0, 0, 0.33);
 }
 body.weddingparty #content .separator {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     clear: both;
 }
 body.weddingparty #content h2 {
     margin-top: 0;
+    margin-bottom: .3em;
 }
 body.weddingparty #content p {
     
