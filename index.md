@@ -1,7 +1,7 @@
 ---
 layout: page
 pagetype: homepage
-title: "Gracie &amp; Weien — March 22, 2013"
+title: "Gracie &amp; Weien — March 22, 2013 "
 ---
 
 <div id="home-buttons">
